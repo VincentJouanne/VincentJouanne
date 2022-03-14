@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the repository [Flutter Bloc Clean Architecture](https://github.com/VincentJouanne/flutter-bloc-clean-architecture)
 - 🔍 I'm currently trying to find one of the best way to architecture and test a Flutter app
-- 💼 I am employed as a Flutter/Nest.js Lead Developer @bamlab
+- 💼 I am employed as a Flutter/Nest.js Lead Developer [@bamlab](https://github.com/bamlab?type=source)
 
 ---
 
