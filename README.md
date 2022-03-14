@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the repository Flutter Bloc Clean Architecture
-- 💼 I am employed as a Flutter Lead Developer @bamlab
+- 🔭 I’m currently working on the repository **Flutter Bloc Clean Architecture**
+- 💼 I am employed as a Flutter/Nest.js Lead Developer @bamlab
 
 ---
 
