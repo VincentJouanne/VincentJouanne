@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the repository [Flutter Bloc Clean Architecture](https://github.com/VincentJouanne/flutter-bloc-clean-architecture)
-- 🧪 I'm passionate about app testing
-- 💼 I am employed as a Flutter/Nest.js Tech Lead [@bamlab](https://github.com/bamlab?type=source)
+- 🤩 I'm passionate about app testing and architecture
+- 💼 I am employed as a Product Engineer [@inato](https://inato.com/)
 
 ---
 
