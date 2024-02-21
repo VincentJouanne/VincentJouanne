@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🤩 I'm passionate about app testing and architecture
-- 💼 I am employed as a Product Engineer [@inato](https://inato.com/)
+- 💼 I am Co-Founder and CTO of [@aPa](https://www.apa.care/)
 
 ---
 
